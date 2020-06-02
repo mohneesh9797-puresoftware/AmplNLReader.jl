@@ -2,10 +2,6 @@ language: julia
 
 os:
   - linux
-  - osx
-  - windows
-  - freebsd
-
 arch:
   - amd64
   - arm64
